@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="202px" viewBox="0 0 201 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Oval 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="53.5622133%" y1="79.8917718%" x2="13.7883458%" y2="6.05289564%" id="linearGradient-1">
+            <stop stop-color="#E02086" offset="0%"></stop>
+            <stop stop-color="#FC4EA1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="/firefox/new/redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="/new-1312-v3" transform="translate(-744.000000, -6855.000000)" fill="url(#linearGradient-1)">
+            <g id="section-company" transform="translate(80.000000, 6527.000000)">
+                <g id="section-sub-PDP" transform="translate(618.000000, 136.000000)">
+                    <g id="img-person-privacy" transform="translate(20.000000, 0.000000)">
+                        <g id="noodles-+-img-Mask">
+                            <g id="noodles" transform="translate(14.000000, -18.000000)">
+                                <circle id="Oval-2" cx="112.5" cy="310.74167" r="100.5"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

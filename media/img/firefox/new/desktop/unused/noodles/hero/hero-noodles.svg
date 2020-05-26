@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="537px" height="502px" viewBox="0 0 537 502" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>noodles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="41.7118701%" y1="55.6118016%" x2="124.707055%" y2="67.296369%" id="linearGradient-1">
+            <stop stop-color="#FFA436" offset="0%"></stop>
+            <stop stop-color="#FFD567" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94.8693762%" y1="43.0068081%" x2="17.4848048%" y2="59.6402398%" id="linearGradient-2">
+            <stop stop-color="#9059FF" offset="0%"></stop>
+            <stop stop-color="#621ED3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="/firefox/new/redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="/new-1312-v3" transform="translate(-719.000000, -156.000000)">
+            <g id="section-hero" transform="translate(81.000000, 136.000000)">
+                <g id="img-hero" transform="translate(582.000000, 17.000000)">
+                    <g id="noodles" transform="translate(28.000000, 0.000000)">
+                        <path d="M310,409.65028 C310,455.213349 273.064192,492.149504 227.5,492.149504 C181.935808,492.149504 145,455.213349 145,409.65028 C145,364.08566 181.935808,327.149504 227.5,327.149504 C273.064192,327.149504 310,364.08566 310,409.65028 Z" id="Fill-1" fill="#FF7139"></path>
+                        <path d="M243.357891,14.0877279 C281.779501,36.0955264 295.666831,84.7443441 274.835837,123.895059 L273.678559,126.21167 C253.773388,163.740758 267.429261,210.304626 304.693595,230.922458 C341.957928,251.540291 388.711936,238.567273 409.774385,201.733168 L411.163118,199.416557 C433.382845,160.729164 482.682863,146.829502 522.030296,168.605639 C561.609184,190.613438 575.959424,240.652222 553.971153,280.266259 C489.163617,397.255083 341.957928,439.417392 225.304363,374.552301 C108.187887,309.687211 65.8315331,162.350791 130.639069,45.3619679 C152.395885,5.97959158 201.464448,-8.3833927 241.043336,12.6977617 L242.200613,13.3927448 L243.357891,14.0877279 Z" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                        <circle id="Oval" stroke="#FFA436" cx="315" cy="34" r="10"></circle>
+                        <rect id="Rectangle" fill="url(#linearGradient-2)" transform="translate(293.678092, 169.732019) rotate(-34.000000) translate(-293.678092, -169.732019) " x="109.178092" y="100.732019" width="369" height="138" rx="69"></rect>
+                        <rect id="Rectangle-Copy-25" stroke="#7542E5" transform="translate(184.500000, 375.308383) rotate(-34.000000) translate(-184.500000, -375.308383) " x="12" y="301.149504" width="345" height="148.317757" rx="74.1588785"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

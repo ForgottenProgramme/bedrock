@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="331px" height="268px" viewBox="0 0 331 268" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="94.8693762%" y1="43.0068081%" x2="17.4848048%" y2="59.6402398%" id="linearGradient-1">
+            <stop stop-color="#9059FF" offset="0%"></stop>
+            <stop stop-color="#621ED3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="/firefox/new/redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="/new-1312-v3" transform="translate(-819.000000, -189.000000)" fill="url(#linearGradient-1)">
+            <g id="section-hero" transform="translate(81.000000, 136.000000)">
+                <g id="img-hero" transform="translate(582.000000, 17.000000)">
+                    <g id="noodles" transform="translate(28.000000, 0.000000)">
+                        <rect id="Rectangle" transform="translate(293.678092, 169.732019) rotate(-34.000000) translate(-293.678092, -169.732019) " x="109.178092" y="100.732019" width="369" height="138" rx="69"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

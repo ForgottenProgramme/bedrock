@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="519px" height="471px" viewBox="0 0 519 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="94.8693762%" y1="42.9820984%" x2="17.4848048%" y2="59.6743026%" id="linearGradient-1">
+            <stop stop-color="#9059FF" offset="0%"></stop>
+            <stop stop-color="#621ED3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <style type="text/css">
+      #oval {
+        animation: rotate 10s infinite linear;
+      }
+
+      @-webkit-keyframes rotate {
+        from {
+          transform: rotate(0deg)
+                    translate(-2px)
+                    rotate(0deg);
+        }
+        to {
+          transform: rotate(360deg)
+                    translate(-2px)
+                    rotate(-360deg);
+        }
+      }
+    </style>
+    <g id="oval" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="/new-1312-v3" transform="translate(-92.000000, -5640.000000)" fill="url(#linearGradient-1)">
+            <g id="section-customize" transform="translate(67.000000, 5509.000000)">
+                <g id="browser-chrome" transform="translate(0.000000, 117.000000)">
+                    <g id="noodles" transform="translate(-20.699999, -32.399999)">
+                        <rect id="Rectangle" transform="translate(305.344663, 282.815997) rotate(-40.000000) translate(-305.344663, -282.815997) " x="2.08065909" y="169.199996" width="606.528008" height="227.232003" rx="113.508873"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

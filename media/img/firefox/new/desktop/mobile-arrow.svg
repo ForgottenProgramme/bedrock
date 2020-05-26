@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="63" viewBox="0 0 60 63">
+  <defs>
+    <circle id="illo-down-arrow-b" cx="20" cy="20" r="20"/>
+    <filter id="illo-down-arrow-a" width="180%" height="187.5%" x="-40%" y="-35%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1.5" result="shadowSpreadOuter1"/>
+      <feOffset dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.0549019608   0 0 0 0 0.0509803922   0 0 0 0 0.101960784  0 0 0 0.13 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="4"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0.0274509804   0 0 0 0 0.188235294   0 0 0 0 0.447058824  0 0 0 0.06 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(10 8)">
+    <use fill="#000" filter="url(#illo-down-arrow-a)" xlink:href="#illo-down-arrow-b"/>
+    <use fill="#B833E1" xlink:href="#illo-down-arrow-b"/>
+    <path fill="#F9F9FB" fill-rule="nonzero" d="M15.1072134,10 C13.3911468,10 12,11.3911468 12,13.1072134 L12,23.4000001 C12,24.8359404 13.1640596,26 14.5999999,26 L24.8892505,26 C26.60727,26 28,24.60727 28,22.8892505 C28,21.171231 26.60727,19.778501 24.8892505,19.778501 L18.2144269,19.778501 L18.2144269,19.778501 L18.2144269,13.1072134 C18.2144269,11.3911468 16.82328,10 15.1072134,10 Z" transform="rotate(-45 20 18)"/>
+  </g>
+</svg>
